@@ -1,0 +1,40 @@
+warthog (score = 0.36493)
+wildebeest
+warthog (score = 0.41092)
+rhinoceros
+hartebeest (score = 0.50658)
+wildebeest
+lion, king of beasts, Panthera leo (score = 0.14828)
+rhinoceros
+triceratops (score = 0.33129)
+rhinoceros
+bison (score = 0.21527)
+rhinoceros
+triceratops (score = 0.74764)
+rhinoceros
+ox (score = 0.47772)
+wildebeest
+ram, tup (score = 0.36904)
+rhinoceros
+hartebeest (score = 0.25439)
+wildebeest
+African elephant, Loxodonta africana (score = 0.41391)
+rhinoceros
+warthog (score = 0.39167)
+wildebeest
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis (score = 0.50545)
+wildebeest
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis (score = 0.56563)
+wildebeest
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis (score = 0.21477)
+wildebeest
+zebra (score = 0.35721)
+wildebeest
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis (score = 0.42770)
+rhinoceros
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis (score = 0.30113)
+wildebeest
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis (score = 0.22095)
+rhinoceros
+Indian elephant, Elephas maximus (score = 0.23310)
+rhinoceros
