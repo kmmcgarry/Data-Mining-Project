@@ -46,4 +46,13 @@ for x in temp:
 df = pd.DataFrame(pairs, columns = ['class', 'incorrect_class'])
 
 df.groupby(df['class']).count().plot(kind = 'bar', title = 'incorrect classifications by animal', legend = False)
-plt.show()
+plt.savefig('incorrect_classes.jpg')
+
+wild = df[df['class'] == 'wildebeest']
+incorrect = wild.groupby(['incorrect_class']).count().plot(kind = 'bar', title = 'incorrect classifications')
+
+rhino = df[df['class'] == 'rhinoceros']
+rhino.groupby(['incorrect_class']).count().plot(kind = 'bar', ax = incorrect, color = 'red')
+
+incorrect.legend(labels = ['wildebeest', 'rhinoceros'])
+plt.savefig('incorrect_classes_stacked.jpg')
