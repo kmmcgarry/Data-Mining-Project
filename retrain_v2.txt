@@ -1,0 +1,3599 @@
+Evaluation time (1-image): 1.628s
+
+wildebeest 0.966206
+rhinoceros 0.0337937
+???
+
+Evaluation time (1-image): 1.553s
+
+wildebeest 0.970331
+rhinoceros 0.0296692
+???
+
+Evaluation time (1-image): 1.555s
+
+wildebeest 0.980153
+rhinoceros 0.0198474
+???
+
+Evaluation time (1-image): 1.678s
+
+wildebeest 0.79321
+rhinoceros 0.20679
+???
+
+Evaluation time (1-image): 1.632s
+
+wildebeest 0.999419
+rhinoceros 0.000581068
+???
+
+Evaluation time (1-image): 1.515s
+
+wildebeest 0.932741
+rhinoceros 0.067259
+???
+
+Evaluation time (1-image): 1.564s
+
+wildebeest 0.99896
+rhinoceros 0.00103967
+???
+
+Evaluation time (1-image): 1.526s
+
+wildebeest 0.994348
+rhinoceros 0.00565198
+???
+
+Evaluation time (1-image): 1.504s
+
+wildebeest 0.990589
+rhinoceros 0.00941051
+???
+
+Evaluation time (1-image): 1.529s
+
+wildebeest 0.99402
+rhinoceros 0.00597958
+???
+
+Evaluation time (1-image): 1.550s
+
+wildebeest 0.997706
+rhinoceros 0.00229352
+???
+
+Evaluation time (1-image): 1.541s
+
+wildebeest 0.972825
+rhinoceros 0.0271746
+???
+
+Evaluation time (1-image): 1.538s
+
+wildebeest 0.903412
+rhinoceros 0.0965877
+???
+
+Evaluation time (1-image): 1.524s
+
+wildebeest 0.997791
+rhinoceros 0.00220924
+???
+
+Evaluation time (1-image): 1.518s
+
+wildebeest 0.986088
+rhinoceros 0.0139125
+???
+
+Evaluation time (1-image): 1.525s
+
+wildebeest 0.964757
+rhinoceros 0.0352434
+???
+
+Evaluation time (1-image): 1.522s
+
+wildebeest 0.980109
+rhinoceros 0.019891
+???
+
+Evaluation time (1-image): 1.522s
+
+wildebeest 0.998297
+rhinoceros 0.00170335
+???
+
+Evaluation time (1-image): 1.575s
+
+wildebeest 0.998099
+rhinoceros 0.00190132
+???
+
+Evaluation time (1-image): 1.529s
+
+wildebeest 0.927201
+rhinoceros 0.0727988
+???
+
+Evaluation time (1-image): 1.506s
+
+wildebeest 0.99948
+rhinoceros 0.000520131
+???
+
+Evaluation time (1-image): 1.557s
+
+wildebeest 0.972057
+rhinoceros 0.0279432
+???
+
+Evaluation time (1-image): 1.527s
+
+wildebeest 0.952672
+rhinoceros 0.0473276
+???
+
+Evaluation time (1-image): 1.546s
+
+wildebeest 0.986665
+rhinoceros 0.013335
+???
+
+Evaluation time (1-image): 1.523s
+
+wildebeest 0.782491
+rhinoceros 0.217509
+???
+
+Evaluation time (1-image): 1.548s
+
+wildebeest 0.967069
+rhinoceros 0.032931
+???
+
+Evaluation time (1-image): 1.531s
+
+wildebeest 0.999209
+rhinoceros 0.000790617
+???
+
+Evaluation time (1-image): 1.522s
+
+wildebeest 0.97093
+rhinoceros 0.0290702
+???
+
+Evaluation time (1-image): 1.527s
+
+wildebeest 0.968145
+rhinoceros 0.0318548
+???
+
+Evaluation time (1-image): 1.499s
+
+wildebeest 0.995366
+rhinoceros 0.00463379
+???
+
+Evaluation time (1-image): 1.567s
+
+wildebeest 0.990045
+rhinoceros 0.00995533
+???
+
+Evaluation time (1-image): 1.516s
+
+wildebeest 0.987493
+rhinoceros 0.0125074
+???
+
+Evaluation time (1-image): 1.513s
+
+wildebeest 0.997529
+rhinoceros 0.00247121
+???
+
+Evaluation time (1-image): 1.516s
+
+wildebeest 0.987184
+rhinoceros 0.0128164
+???
+
+Evaluation time (1-image): 1.523s
+
+wildebeest 0.569375
+rhinoceros 0.430625
+???
+
+Evaluation time (1-image): 1.528s
+
+wildebeest 0.997442
+rhinoceros 0.00255851
+???
+
+Evaluation time (1-image): 1.510s
+
+wildebeest 0.99897
+rhinoceros 0.0010305
+???
+
+Evaluation time (1-image): 1.517s
+
+wildebeest 0.968657
+rhinoceros 0.0313435
+???
+
+Evaluation time (1-image): 1.515s
+
+rhinoceros 0.655252
+wildebeest 0.344748
+???
+
+Evaluation time (1-image): 1.522s
+
+wildebeest 0.998404
+rhinoceros 0.00159613
+???
+
+Evaluation time (1-image): 1.534s
+
+wildebeest 0.998679
+rhinoceros 0.00132069
+???
+
+Evaluation time (1-image): 1.572s
+
+wildebeest 0.999022
+rhinoceros 0.000978074
+???
+
+Evaluation time (1-image): 1.531s
+
+wildebeest 0.988181
+rhinoceros 0.0118193
+???
+
+Evaluation time (1-image): 1.508s
+
+wildebeest 0.994117
+rhinoceros 0.00588281
+???
+
+Evaluation time (1-image): 1.525s
+
+wildebeest 0.571039
+rhinoceros 0.428961
+???
+
+Evaluation time (1-image): 1.547s
+
+wildebeest 0.983261
+rhinoceros 0.016739
+???
+
+Evaluation time (1-image): 1.530s
+
+wildebeest 0.988731
+rhinoceros 0.0112686
+???
+
+Evaluation time (1-image): 1.552s
+
+wildebeest 0.973872
+rhinoceros 0.0261277
+???
+
+Evaluation time (1-image): 1.521s
+
+wildebeest 0.995279
+rhinoceros 0.00472138
+???
+
+Evaluation time (1-image): 1.508s
+
+wildebeest 0.99324
+rhinoceros 0.00675962
+???
+
+Evaluation time (1-image): 1.551s
+
+wildebeest 0.998277
+rhinoceros 0.00172294
+???
+
+Evaluation time (1-image): 2.848s
+
+wildebeest 0.918799
+rhinoceros 0.0812009
+???
+
+Evaluation time (1-image): 3.411s
+
+rhinoceros 0.995136
+wildebeest 0.0048636
+???
+
+Evaluation time (1-image): 1.980s
+
+wildebeest 0.9974
+rhinoceros 0.00260048
+???
+
+Evaluation time (1-image): 1.791s
+
+wildebeest 0.997634
+rhinoceros 0.00236612
+???
+
+Evaluation time (1-image): 1.897s
+
+wildebeest 0.627594
+rhinoceros 0.372406
+???
+
+Evaluation time (1-image): 1.579s
+
+rhinoceros 0.988286
+wildebeest 0.0117136
+???
+
+Evaluation time (1-image): 1.571s
+
+wildebeest 0.996421
+rhinoceros 0.00357877
+???
+
+Evaluation time (1-image): 1.545s
+
+wildebeest 0.991132
+rhinoceros 0.00886757
+???
+
+Evaluation time (1-image): 1.527s
+
+wildebeest 0.978149
+rhinoceros 0.0218512
+???
+
+Evaluation time (1-image): 1.760s
+
+rhinoceros 0.989569
+wildebeest 0.0104315
+???
+
+Evaluation time (1-image): 1.541s
+
+rhinoceros 0.979234
+wildebeest 0.0207662
+???
+
+Evaluation time (1-image): 1.661s
+
+rhinoceros 0.949279
+wildebeest 0.0507205
+???
+
+Evaluation time (1-image): 1.669s
+
+wildebeest 0.997592
+rhinoceros 0.00240787
+???
+
+Evaluation time (1-image): 1.886s
+
+rhinoceros 0.994169
+wildebeest 0.00583056
+???
+
+Evaluation time (1-image): 1.810s
+
+rhinoceros 0.518648
+wildebeest 0.481352
+???
+
+Evaluation time (1-image): 1.575s
+
+rhinoceros 0.994581
+wildebeest 0.00541902
+???
+
+Evaluation time (1-image): 1.639s
+
+rhinoceros 0.994955
+wildebeest 0.00504542
+???
+
+Evaluation time (1-image): 1.596s
+
+wildebeest 0.894676
+rhinoceros 0.105324
+???
+
+Evaluation time (1-image): 1.538s
+
+rhinoceros 0.998683
+wildebeest 0.00131745
+???
+
+Evaluation time (1-image): 1.545s
+
+rhinoceros 0.993562
+wildebeest 0.00643842
+???
+
+Evaluation time (1-image): 1.552s
+
+rhinoceros 0.997893
+wildebeest 0.00210671
+???
+
+Evaluation time (1-image): 1.516s
+
+rhinoceros 0.925661
+wildebeest 0.0743389
+???
+
+Evaluation time (1-image): 1.539s
+
+rhinoceros 0.999093
+wildebeest 0.000907
+???
+
+Evaluation time (1-image): 1.617s
+
+rhinoceros 0.983665
+wildebeest 0.0163355
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.999159
+wildebeest 0.000841169
+???
+
+Evaluation time (1-image): 1.541s
+
+rhinoceros 0.983269
+wildebeest 0.0167313
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.993999
+wildebeest 0.00600067
+???
+
+Evaluation time (1-image): 1.514s
+
+wildebeest 0.983426
+rhinoceros 0.0165735
+???
+
+Evaluation time (1-image): 1.527s
+
+wildebeest 0.995075
+rhinoceros 0.00492535
+???
+
+Evaluation time (1-image): 1.509s
+
+rhinoceros 0.993832
+wildebeest 0.00616762
+???
+
+Evaluation time (1-image): 1.492s
+
+rhinoceros 0.994729
+wildebeest 0.00527097
+???
+
+Evaluation time (1-image): 1.521s
+
+rhinoceros 0.994319
+wildebeest 0.005681
+???
+
+Evaluation time (1-image): 1.523s
+
+rhinoceros 0.999291
+wildebeest 0.000708718
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.774771
+wildebeest 0.225229
+???
+
+Evaluation time (1-image): 1.536s
+
+rhinoceros 0.979202
+wildebeest 0.0207979
+???
+
+Evaluation time (1-image): 1.602s
+
+rhinoceros 0.978407
+wildebeest 0.0215931
+???
+
+Evaluation time (1-image): 1.517s
+
+rhinoceros 0.998465
+wildebeest 0.00153509
+???
+
+Evaluation time (1-image): 1.519s
+
+rhinoceros 0.990304
+wildebeest 0.00969645
+???
+
+Evaluation time (1-image): 1.528s
+
+rhinoceros 0.877795
+wildebeest 0.122205
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.989492
+wildebeest 0.0105084
+???
+
+Evaluation time (1-image): 1.528s
+
+wildebeest 0.970538
+rhinoceros 0.0294623
+???
+
+Evaluation time (1-image): 1.523s
+
+rhinoceros 0.994028
+wildebeest 0.0059719
+???
+
+Evaluation time (1-image): 1.543s
+
+rhinoceros 0.999308
+wildebeest 0.000692327
+???
+
+Evaluation time (1-image): 1.528s
+
+rhinoceros 0.998248
+wildebeest 0.00175177
+???
+
+Evaluation time (1-image): 1.546s
+
+rhinoceros 0.784141
+wildebeest 0.215859
+???
+
+Evaluation time (1-image): 1.529s
+
+wildebeest 0.997963
+rhinoceros 0.00203655
+???
+
+Evaluation time (1-image): 1.536s
+
+wildebeest 0.964413
+rhinoceros 0.0355872
+???
+
+Evaluation time (1-image): 1.526s
+
+wildebeest 0.977761
+rhinoceros 0.0222392
+???
+
+Evaluation time (1-image): 1.529s
+
+wildebeest 0.990475
+rhinoceros 0.00952531
+???
+
+Evaluation time (1-image): 1.546s
+
+rhinoceros 0.600429
+wildebeest 0.399571
+???
+
+Evaluation time (1-image): 1.568s
+
+rhinoceros 0.956518
+wildebeest 0.0434818
+???
+
+Evaluation time (1-image): 1.524s
+
+wildebeest 0.998368
+rhinoceros 0.00163211
+???
+
+Evaluation time (1-image): 1.490s
+
+wildebeest 0.916811
+rhinoceros 0.0831891
+???
+
+Evaluation time (1-image): 1.580s
+
+wildebeest 0.782677
+rhinoceros 0.217323
+???
+
+Evaluation time (1-image): 1.624s
+
+rhinoceros 0.95498
+wildebeest 0.0450196
+???
+
+Evaluation time (1-image): 2.016s
+
+rhinoceros 0.997639
+wildebeest 0.00236119
+???
+
+Evaluation time (1-image): 2.889s
+
+wildebeest 0.996692
+rhinoceros 0.00330757
+???
+
+Evaluation time (1-image): 1.797s
+
+wildebeest 0.962111
+rhinoceros 0.037889
+???
+
+Evaluation time (1-image): 1.554s
+
+rhinoceros 0.986591
+wildebeest 0.0134093
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.95957
+wildebeest 0.0404298
+???
+
+Evaluation time (1-image): 1.526s
+
+wildebeest 0.990314
+rhinoceros 0.00968574
+???
+
+Evaluation time (1-image): 1.970s
+
+rhinoceros 0.99962
+wildebeest 0.000380158
+???
+
+Evaluation time (1-image): 1.677s
+
+wildebeest 0.992934
+rhinoceros 0.00706608
+???
+
+Evaluation time (1-image): 1.900s
+
+wildebeest 0.735742
+rhinoceros 0.264258
+???
+
+Evaluation time (1-image): 2.163s
+
+wildebeest 0.906538
+rhinoceros 0.0934621
+???
+
+Evaluation time (1-image): 2.579s
+
+rhinoceros 0.997955
+wildebeest 0.00204499
+???
+
+Evaluation time (1-image): 1.957s
+
+wildebeest 0.991218
+rhinoceros 0.00878171
+???
+
+Evaluation time (1-image): 2.020s
+
+wildebeest 0.99298
+rhinoceros 0.00702036
+???
+
+Evaluation time (1-image): 2.094s
+
+rhinoceros 0.998283
+wildebeest 0.00171687
+???
+
+Evaluation time (1-image): 2.461s
+
+wildebeest 0.735912
+rhinoceros 0.264088
+???
+
+Evaluation time (1-image): 1.628s
+
+rhinoceros 0.955912
+wildebeest 0.0440876
+???
+
+Evaluation time (1-image): 2.021s
+
+rhinoceros 0.941071
+wildebeest 0.0589288
+???
+
+Evaluation time (1-image): 2.073s
+
+rhinoceros 0.987985
+wildebeest 0.0120155
+???
+
+Evaluation time (1-image): 1.620s
+
+rhinoceros 0.998613
+wildebeest 0.00138655
+???
+
+Evaluation time (1-image): 2.698s
+
+wildebeest 0.950359
+rhinoceros 0.0496405
+???
+
+Evaluation time (1-image): 1.903s
+
+rhinoceros 0.987098
+wildebeest 0.0129024
+???
+
+Evaluation time (1-image): 1.940s
+
+wildebeest 0.986755
+rhinoceros 0.0132453
+???
+
+Evaluation time (1-image): 1.805s
+
+rhinoceros 0.987073
+wildebeest 0.0129275
+???
+
+Evaluation time (1-image): 1.800s
+
+wildebeest 0.995508
+rhinoceros 0.00449222
+???
+
+Evaluation time (1-image): 2.111s
+
+wildebeest 0.995325
+rhinoceros 0.00467502
+???
+
+Evaluation time (1-image): 2.087s
+
+wildebeest 0.993225
+rhinoceros 0.00677461
+???
+
+Evaluation time (1-image): 1.982s
+
+wildebeest 0.948901
+rhinoceros 0.051099
+???
+
+Evaluation time (1-image): 1.956s
+
+wildebeest 0.958534
+rhinoceros 0.0414659
+???
+
+Evaluation time (1-image): 1.779s
+
+wildebeest 0.974228
+rhinoceros 0.0257723
+???
+
+Evaluation time (1-image): 2.148s
+
+wildebeest 0.996467
+rhinoceros 0.00353342
+???
+
+Evaluation time (1-image): 1.949s
+
+rhinoceros 0.996357
+wildebeest 0.0036429
+???
+
+Evaluation time (1-image): 1.667s
+
+wildebeest 0.996002
+rhinoceros 0.00399797
+???
+
+Evaluation time (1-image): 1.674s
+
+wildebeest 0.948281
+rhinoceros 0.0517192
+???
+
+Evaluation time (1-image): 1.569s
+
+wildebeest 0.998305
+rhinoceros 0.00169497
+???
+
+Evaluation time (1-image): 1.646s
+
+rhinoceros 0.579637
+wildebeest 0.420363
+???
+
+Evaluation time (1-image): 1.543s
+
+rhinoceros 0.996736
+wildebeest 0.00326446
+???
+
+Evaluation time (1-image): 1.522s
+
+rhinoceros 0.99779
+wildebeest 0.0022098
+???
+
+Evaluation time (1-image): 1.548s
+
+wildebeest 0.989068
+rhinoceros 0.0109318
+???
+
+Evaluation time (1-image): 1.604s
+
+wildebeest 0.999723
+rhinoceros 0.000276598
+???
+
+Evaluation time (1-image): 1.755s
+
+wildebeest 0.972603
+rhinoceros 0.0273974
+???
+
+Evaluation time (1-image): 1.699s
+
+wildebeest 0.997555
+rhinoceros 0.00244479
+???
+
+Evaluation time (1-image): 1.952s
+
+rhinoceros 0.985558
+wildebeest 0.0144421
+???
+
+Evaluation time (1-image): 1.644s
+
+rhinoceros 0.621706
+wildebeest 0.378294
+???
+
+Evaluation time (1-image): 1.577s
+
+rhinoceros 0.998336
+wildebeest 0.00166411
+???
+
+Evaluation time (1-image): 1.604s
+
+wildebeest 0.905135
+rhinoceros 0.0948654
+???
+
+Evaluation time (1-image): 1.617s
+
+rhinoceros 0.967622
+wildebeest 0.032378
+???
+
+Evaluation time (1-image): 1.663s
+
+wildebeest 0.994796
+rhinoceros 0.00520385
+???
+
+Evaluation time (1-image): 1.518s
+
+rhinoceros 0.99594
+wildebeest 0.00405964
+???
+
+Evaluation time (1-image): 1.631s
+
+rhinoceros 0.998681
+wildebeest 0.00131922
+???
+
+Evaluation time (1-image): 2.190s
+
+rhinoceros 0.999031
+wildebeest 0.000969355
+???
+
+Evaluation time (1-image): 2.429s
+
+wildebeest 0.564251
+rhinoceros 0.435749
+???
+
+Evaluation time (1-image): 1.876s
+
+wildebeest 0.974887
+rhinoceros 0.0251129
+???
+
+Evaluation time (1-image): 1.599s
+
+rhinoceros 0.999448
+wildebeest 0.000551569
+???
+
+Evaluation time (1-image): 1.717s
+
+rhinoceros 0.988046
+wildebeest 0.0119537
+???
+
+Evaluation time (1-image): 1.534s
+
+rhinoceros 0.999081
+wildebeest 0.000918869
+???
+
+Evaluation time (1-image): 1.519s
+
+rhinoceros 0.995974
+wildebeest 0.00402553
+???
+
+Evaluation time (1-image): 1.549s
+
+rhinoceros 0.997918
+wildebeest 0.00208155
+???
+
+Evaluation time (1-image): 1.521s
+
+wildebeest 0.947259
+rhinoceros 0.0527407
+???
+
+Evaluation time (1-image): 1.668s
+
+rhinoceros 0.995964
+wildebeest 0.00403588
+???
+
+Evaluation time (1-image): 1.625s
+
+rhinoceros 0.926086
+wildebeest 0.0739144
+???
+
+Evaluation time (1-image): 1.639s
+
+rhinoceros 0.998746
+wildebeest 0.00125404
+???
+
+Evaluation time (1-image): 1.642s
+
+wildebeest 0.991414
+rhinoceros 0.00858594
+???
+
+Evaluation time (1-image): 1.604s
+
+rhinoceros 0.922703
+wildebeest 0.0772966
+???
+
+Evaluation time (1-image): 1.621s
+
+rhinoceros 0.971433
+wildebeest 0.0285674
+???
+
+Evaluation time (1-image): 1.733s
+
+rhinoceros 0.996997
+wildebeest 0.00300261
+???
+
+Evaluation time (1-image): 1.613s
+
+wildebeest 0.581089
+rhinoceros 0.418911
+???
+
+Evaluation time (1-image): 1.645s
+
+wildebeest 0.523026
+rhinoceros 0.476974
+???
+
+Evaluation time (1-image): 1.687s
+
+wildebeest 0.998152
+rhinoceros 0.00184774
+???
+
+Evaluation time (1-image): 1.679s
+
+rhinoceros 0.993514
+wildebeest 0.00648648
+???
+
+Evaluation time (1-image): 1.613s
+
+wildebeest 0.961324
+rhinoceros 0.0386761
+???
+
+Evaluation time (1-image): 2.083s
+
+rhinoceros 0.974371
+wildebeest 0.0256292
+???
+
+Evaluation time (1-image): 1.997s
+
+wildebeest 0.993392
+rhinoceros 0.00660833
+???
+
+Evaluation time (1-image): 1.637s
+
+rhinoceros 0.83852
+wildebeest 0.16148
+???
+
+Evaluation time (1-image): 1.933s
+
+wildebeest 0.907395
+rhinoceros 0.092605
+???
+
+Evaluation time (1-image): 1.899s
+
+wildebeest 0.984015
+rhinoceros 0.0159853
+???
+
+Evaluation time (1-image): 1.745s
+
+wildebeest 0.826744
+rhinoceros 0.173256
+???
+
+Evaluation time (1-image): 1.802s
+
+wildebeest 0.99418
+rhinoceros 0.00582024
+???
+
+Evaluation time (1-image): 2.068s
+
+wildebeest 0.982819
+rhinoceros 0.0171805
+???
+
+Evaluation time (1-image): 1.755s
+
+wildebeest 0.990286
+rhinoceros 0.0097142
+???
+
+Evaluation time (1-image): 1.758s
+
+rhinoceros 0.996944
+wildebeest 0.00305601
+???
+
+Evaluation time (1-image): 1.751s
+
+rhinoceros 0.999274
+wildebeest 0.000726385
+???
+
+Evaluation time (1-image): 1.623s
+
+wildebeest 0.551411
+rhinoceros 0.448589
+???
+
+Evaluation time (1-image): 1.820s
+
+rhinoceros 0.998783
+wildebeest 0.00121714
+???
+
+Evaluation time (1-image): 1.716s
+
+rhinoceros 0.999239
+wildebeest 0.000761005
+???
+
+Evaluation time (1-image): 1.630s
+
+rhinoceros 0.988816
+wildebeest 0.0111839
+???
+
+Evaluation time (1-image): 1.526s
+
+wildebeest 0.978144
+rhinoceros 0.0218558
+???
+
+Evaluation time (1-image): 1.511s
+
+rhinoceros 0.810476
+wildebeest 0.189524
+???
+
+Evaluation time (1-image): 1.522s
+
+wildebeest 0.986937
+rhinoceros 0.013063
+???
+
+Evaluation time (1-image): 1.623s
+
+wildebeest 0.62015
+rhinoceros 0.37985
+???
+
+Evaluation time (1-image): 1.522s
+
+wildebeest 0.998613
+rhinoceros 0.00138745
+???
+
+Evaluation time (1-image): 1.518s
+
+rhinoceros 0.998031
+wildebeest 0.00196929
+???
+
+Evaluation time (1-image): 1.659s
+
+wildebeest 0.9819
+rhinoceros 0.0181003
+???
+
+Evaluation time (1-image): 1.886s
+
+wildebeest 0.967175
+rhinoceros 0.0328251
+???
+
+Evaluation time (1-image): 1.664s
+
+rhinoceros 0.994574
+wildebeest 0.00542553
+???
+
+Evaluation time (1-image): 1.591s
+
+wildebeest 0.99603
+rhinoceros 0.00397002
+???
+
+Evaluation time (1-image): 1.530s
+
+rhinoceros 0.947061
+wildebeest 0.0529394
+???
+
+Evaluation time (1-image): 1.546s
+
+wildebeest 0.990044
+rhinoceros 0.00995592
+???
+
+Evaluation time (1-image): 1.531s
+
+rhinoceros 0.985024
+wildebeest 0.0149763
+???
+
+Evaluation time (1-image): 1.564s
+
+wildebeest 0.999791
+rhinoceros 0.000209038
+???
+
+Evaluation time (1-image): 1.537s
+
+rhinoceros 0.990237
+wildebeest 0.00976339
+???
+
+Evaluation time (1-image): 1.532s
+
+rhinoceros 0.999477
+wildebeest 0.000523312
+???
+
+Evaluation time (1-image): 1.530s
+
+wildebeest 0.968377
+rhinoceros 0.0316229
+???
+
+Evaluation time (1-image): 1.532s
+
+wildebeest 0.995188
+rhinoceros 0.00481246
+???
+
+Evaluation time (1-image): 1.514s
+
+rhinoceros 0.995646
+wildebeest 0.00435404
+???
+
+Evaluation time (1-image): 1.533s
+
+wildebeest 0.991559
+rhinoceros 0.00844142
+???
+
+Evaluation time (1-image): 1.524s
+
+rhinoceros 0.990051
+wildebeest 0.00994899
+???
+
+Evaluation time (1-image): 1.547s
+
+rhinoceros 0.9863
+wildebeest 0.0136997
+???
+
+Evaluation time (1-image): 1.519s
+
+wildebeest 0.984933
+rhinoceros 0.0150671
+???
+
+Evaluation time (1-image): 1.525s
+
+wildebeest 0.802128
+rhinoceros 0.197873
+???
+
+Evaluation time (1-image): 1.535s
+
+rhinoceros 0.992657
+wildebeest 0.00734277
+???
+
+Evaluation time (1-image): 1.806s
+
+rhinoceros 0.99605
+wildebeest 0.00395044
+???
+
+Evaluation time (1-image): 1.780s
+
+wildebeest 0.886503
+rhinoceros 0.113497
+???
+
+Evaluation time (1-image): 1.554s
+
+wildebeest 0.830132
+rhinoceros 0.169868
+???
+
+Evaluation time (1-image): 1.558s
+
+wildebeest 0.996828
+rhinoceros 0.00317208
+???
+
+Evaluation time (1-image): 1.550s
+
+wildebeest 0.970355
+rhinoceros 0.0296452
+???
+
+Evaluation time (1-image): 1.779s
+
+rhinoceros 0.998738
+wildebeest 0.00126244
+???
+
+Evaluation time (1-image): 1.584s
+
+rhinoceros 0.941526
+wildebeest 0.0584743
+???
+
+Evaluation time (1-image): 1.772s
+
+wildebeest 0.959776
+rhinoceros 0.0402243
+???
+
+Evaluation time (1-image): 1.748s
+
+rhinoceros 0.999064
+wildebeest 0.00093565
+???
+
+Evaluation time (1-image): 1.823s
+
+wildebeest 0.895993
+rhinoceros 0.104006
+???
+
+Evaluation time (1-image): 1.720s
+
+wildebeest 0.984213
+rhinoceros 0.0157869
+???
+
+Evaluation time (1-image): 1.568s
+
+rhinoceros 0.990786
+wildebeest 0.00921438
+???
+
+Evaluation time (1-image): 1.704s
+
+rhinoceros 0.996503
+wildebeest 0.00349717
+???
+
+Evaluation time (1-image): 2.326s
+
+wildebeest 0.973778
+rhinoceros 0.0262215
+???
+
+Evaluation time (1-image): 1.561s
+
+rhinoceros 0.930584
+wildebeest 0.069416
+???
+
+Evaluation time (1-image): 1.578s
+
+wildebeest 0.980958
+rhinoceros 0.0190426
+???
+
+Evaluation time (1-image): 1.580s
+
+wildebeest 0.992225
+rhinoceros 0.00777475
+???
+
+Evaluation time (1-image): 1.618s
+
+wildebeest 0.942909
+rhinoceros 0.0570907
+???
+
+Evaluation time (1-image): 1.581s
+
+rhinoceros 0.994647
+wildebeest 0.00535276
+???
+
+Evaluation time (1-image): 1.739s
+
+wildebeest 0.996356
+rhinoceros 0.00364428
+???
+
+Evaluation time (1-image): 1.561s
+
+rhinoceros 0.889895
+wildebeest 0.110105
+???
+
+Evaluation time (1-image): 1.661s
+
+rhinoceros 0.997527
+wildebeest 0.00247255
+???
+
+Evaluation time (1-image): 1.664s
+
+wildebeest 0.521801
+rhinoceros 0.478199
+???
+
+Evaluation time (1-image): 1.632s
+
+wildebeest 0.869434
+rhinoceros 0.130566
+???
+
+Evaluation time (1-image): 1.608s
+
+rhinoceros 0.997817
+wildebeest 0.00218334
+???
+
+Evaluation time (1-image): 1.649s
+
+rhinoceros 0.98977
+wildebeest 0.0102298
+???
+
+Evaluation time (1-image): 1.799s
+
+wildebeest 0.970794
+rhinoceros 0.0292063
+???
+
+Evaluation time (1-image): 1.530s
+
+rhinoceros 0.982322
+wildebeest 0.0176783
+???
+
+Evaluation time (1-image): 1.538s
+
+rhinoceros 0.997477
+wildebeest 0.00252297
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.975148
+wildebeest 0.0248517
+???
+
+Evaluation time (1-image): 1.529s
+
+wildebeest 0.978444
+rhinoceros 0.0215563
+???
+
+Evaluation time (1-image): 1.626s
+
+rhinoceros 0.889635
+wildebeest 0.110365
+???
+
+Evaluation time (1-image): 1.610s
+
+wildebeest 0.522786
+rhinoceros 0.477214
+???
+
+Evaluation time (1-image): 1.789s
+
+rhinoceros 0.998415
+wildebeest 0.00158527
+???
+
+Evaluation time (1-image): 1.677s
+
+wildebeest 0.966707
+rhinoceros 0.0332933
+???
+
+Evaluation time (1-image): 1.721s
+
+rhinoceros 0.999114
+wildebeest 0.000885615
+???
+
+Evaluation time (1-image): 1.652s
+
+rhinoceros 0.96139
+wildebeest 0.0386095
+???
+
+Evaluation time (1-image): 1.753s
+
+rhinoceros 0.992109
+wildebeest 0.00789135
+???
+
+Evaluation time (1-image): 1.538s
+
+rhinoceros 0.993357
+wildebeest 0.00664251
+???
+
+Evaluation time (1-image): 1.570s
+
+wildebeest 0.854413
+rhinoceros 0.145587
+???
+
+Evaluation time (1-image): 1.611s
+
+wildebeest 0.998843
+rhinoceros 0.00115661
+???
+
+Evaluation time (1-image): 1.551s
+
+wildebeest 0.943798
+rhinoceros 0.056202
+???
+
+Evaluation time (1-image): 1.550s
+
+rhinoceros 0.997516
+wildebeest 0.00248383
+???
+
+Evaluation time (1-image): 1.559s
+
+wildebeest 0.991146
+rhinoceros 0.0088542
+???
+
+Evaluation time (1-image): 1.652s
+
+rhinoceros 0.984278
+wildebeest 0.0157218
+???
+
+Evaluation time (1-image): 1.561s
+
+wildebeest 0.529522
+rhinoceros 0.470478
+???
+
+Evaluation time (1-image): 1.537s
+
+rhinoceros 0.954392
+wildebeest 0.0456084
+???
+
+Evaluation time (1-image): 1.664s
+
+rhinoceros 0.807676
+wildebeest 0.192324
+???
+
+Evaluation time (1-image): 1.599s
+
+rhinoceros 0.890383
+wildebeest 0.109617
+???
+
+Evaluation time (1-image): 1.557s
+
+rhinoceros 0.952731
+wildebeest 0.0472687
+???
+
+Evaluation time (1-image): 1.549s
+
+rhinoceros 0.99978
+wildebeest 0.000220314
+???
+
+Evaluation time (1-image): 1.543s
+
+wildebeest 0.929024
+rhinoceros 0.0709757
+???
+
+Evaluation time (1-image): 1.539s
+
+wildebeest 0.986315
+rhinoceros 0.0136846
+???
+
+Evaluation time (1-image): 1.740s
+
+wildebeest 0.559929
+rhinoceros 0.440071
+???
+
+Evaluation time (1-image): 1.597s
+
+rhinoceros 0.999069
+wildebeest 0.000930751
+???
+
+Evaluation time (1-image): 1.589s
+
+wildebeest 0.998884
+rhinoceros 0.00111571
+???
+
+Evaluation time (1-image): 1.536s
+
+rhinoceros 0.864296
+wildebeest 0.135704
+???
+
+Evaluation time (1-image): 1.618s
+
+rhinoceros 0.966288
+wildebeest 0.0337117
+???
+
+Evaluation time (1-image): 1.692s
+
+wildebeest 0.985756
+rhinoceros 0.0142442
+???
+
+Evaluation time (1-image): 1.646s
+
+wildebeest 0.988666
+rhinoceros 0.0113337
+???
+
+Evaluation time (1-image): 1.800s
+
+rhinoceros 0.984711
+wildebeest 0.015289
+???
+
+Evaluation time (1-image): 1.893s
+
+wildebeest 0.932256
+rhinoceros 0.0677441
+???
+
+Evaluation time (1-image): 1.564s
+
+wildebeest 0.97751
+rhinoceros 0.0224899
+???
+
+Evaluation time (1-image): 1.567s
+
+rhinoceros 0.99772
+wildebeest 0.00227992
+???
+
+Evaluation time (1-image): 1.527s
+
+rhinoceros 0.997783
+wildebeest 0.00221731
+???
+
+Evaluation time (1-image): 1.537s
+
+rhinoceros 0.828651
+wildebeest 0.171349
+???
+
+Evaluation time (1-image): 1.518s
+
+rhinoceros 0.918764
+wildebeest 0.0812356
+???
+
+Evaluation time (1-image): 1.572s
+
+rhinoceros 0.998301
+wildebeest 0.00169856
+???
+
+Evaluation time (1-image): 1.642s
+
+rhinoceros 0.822563
+wildebeest 0.177437
+???
+
+Evaluation time (1-image): 1.682s
+
+rhinoceros 0.99787
+wildebeest 0.00213017
+???
+
+Evaluation time (1-image): 1.599s
+
+rhinoceros 0.877849
+wildebeest 0.122151
+???
+
+Evaluation time (1-image): 1.679s
+
+rhinoceros 0.792319
+wildebeest 0.207681
+???
+
+Evaluation time (1-image): 1.548s
+
+rhinoceros 0.970014
+wildebeest 0.029986
+???
+
+Evaluation time (1-image): 1.552s
+
+rhinoceros 0.956386
+wildebeest 0.0436138
+???
+
+Evaluation time (1-image): 1.712s
+
+rhinoceros 0.992725
+wildebeest 0.00727546
+???
+
+Evaluation time (1-image): 2.205s
+
+rhinoceros 0.998005
+wildebeest 0.00199455
+???
+
+Evaluation time (1-image): 1.580s
+
+rhinoceros 0.955864
+wildebeest 0.0441357
+???
+
+Evaluation time (1-image): 1.680s
+
+wildebeest 0.973665
+rhinoceros 0.0263351
+???
+
+Evaluation time (1-image): 1.536s
+
+wildebeest 0.962262
+rhinoceros 0.0377376
+???
+
+Evaluation time (1-image): 1.615s
+
+rhinoceros 0.960668
+wildebeest 0.0393315
+???
+
+Evaluation time (1-image): 1.584s
+
+rhinoceros 0.872017
+wildebeest 0.127983
+???
+
+Evaluation time (1-image): 1.543s
+
+wildebeest 0.969114
+rhinoceros 0.0308861
+???
+
+Evaluation time (1-image): 1.537s
+
+rhinoceros 0.99455
+wildebeest 0.00545007
+???
+
+Evaluation time (1-image): 1.541s
+
+wildebeest 0.997492
+rhinoceros 0.00250755
+???
+
+Evaluation time (1-image): 1.611s
+
+wildebeest 0.995861
+rhinoceros 0.00413851
+???
+
+Evaluation time (1-image): 1.524s
+
+rhinoceros 0.966458
+wildebeest 0.0335419
+???
+
+Evaluation time (1-image): 1.597s
+
+rhinoceros 0.984327
+wildebeest 0.0156728
+???
+
+Evaluation time (1-image): 1.565s
+
+wildebeest 0.997379
+rhinoceros 0.00262076
+???
+
+Evaluation time (1-image): 1.491s
+
+wildebeest 0.921004
+rhinoceros 0.0789958
+???
+
+Evaluation time (1-image): 1.596s
+
+wildebeest 0.732932
+rhinoceros 0.267068
+???
+
+Evaluation time (1-image): 1.612s
+
+wildebeest 0.992677
+rhinoceros 0.00732262
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.970032
+wildebeest 0.0299679
+???
+
+Evaluation time (1-image): 1.594s
+
+rhinoceros 0.977623
+wildebeest 0.0223771
+???
+
+Evaluation time (1-image): 1.567s
+
+rhinoceros 0.996228
+wildebeest 0.00377179
+???
+
+Evaluation time (1-image): 1.628s
+
+rhinoceros 0.954088
+wildebeest 0.0459123
+???
+
+Evaluation time (1-image): 1.513s
+
+rhinoceros 0.642896
+wildebeest 0.357104
+???
+
+Evaluation time (1-image): 1.539s
+
+rhinoceros 0.852684
+wildebeest 0.147316
+???
+
+Evaluation time (1-image): 1.534s
+
+wildebeest 0.951698
+rhinoceros 0.0483023
+???
+
+Evaluation time (1-image): 1.607s
+
+rhinoceros 0.945564
+wildebeest 0.0544359
+???
+
+Evaluation time (1-image): 1.672s
+
+wildebeest 0.941988
+rhinoceros 0.0580123
+???
+
+Evaluation time (1-image): 1.582s
+
+wildebeest 0.989422
+rhinoceros 0.0105781
+???
+
+Evaluation time (1-image): 1.540s
+
+rhinoceros 0.972008
+wildebeest 0.0279919
+???
+
+Evaluation time (1-image): 1.521s
+
+wildebeest 0.980295
+rhinoceros 0.0197051
+???
+
+Evaluation time (1-image): 1.537s
+
+rhinoceros 0.981496
+wildebeest 0.0185044
+???
+
+Evaluation time (1-image): 1.506s
+
+rhinoceros 0.997281
+wildebeest 0.00271866
+???
+
+Evaluation time (1-image): 1.546s
+
+rhinoceros 0.870822
+wildebeest 0.129178
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.995241
+wildebeest 0.00475869
+???
+
+Evaluation time (1-image): 1.527s
+
+rhinoceros 0.991002
+wildebeest 0.00899767
+???
+
+Evaluation time (1-image): 1.653s
+
+rhinoceros 0.98724
+wildebeest 0.0127597
+???
+
+Evaluation time (1-image): 1.534s
+
+wildebeest 0.982812
+rhinoceros 0.0171875
+???
+
+Evaluation time (1-image): 1.514s
+
+wildebeest 0.998103
+rhinoceros 0.0018969
+???
+
+Evaluation time (1-image): 1.513s
+
+rhinoceros 0.995458
+wildebeest 0.00454236
+???
+
+Evaluation time (1-image): 1.495s
+
+rhinoceros 0.99858
+wildebeest 0.00142026
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.966501
+wildebeest 0.0334987
+???
+
+Evaluation time (1-image): 1.524s
+
+rhinoceros 0.999132
+wildebeest 0.000868041
+???
+
+Evaluation time (1-image): 1.525s
+
+rhinoceros 0.998148
+wildebeest 0.00185219
+???
+
+Evaluation time (1-image): 1.679s
+
+rhinoceros 0.997205
+wildebeest 0.00279528
+???
+
+Evaluation time (1-image): 1.687s
+
+rhinoceros 0.996716
+wildebeest 0.00328371
+???
+
+Evaluation time (1-image): 1.647s
+
+rhinoceros 0.954026
+wildebeest 0.0459745
+???
+
+Evaluation time (1-image): 1.623s
+
+rhinoceros 0.999436
+wildebeest 0.000563709
+???
+
+Evaluation time (1-image): 1.609s
+
+rhinoceros 0.890182
+wildebeest 0.109818
+???
+
+Evaluation time (1-image): 1.756s
+
+rhinoceros 0.999734
+wildebeest 0.000265702
+???
+
+Evaluation time (1-image): 1.510s
+
+rhinoceros 0.930122
+wildebeest 0.0698777
+???
+
+Evaluation time (1-image): 1.613s
+
+rhinoceros 0.988329
+wildebeest 0.0116708
+???
+
+Evaluation time (1-image): 1.556s
+
+rhinoceros 0.997086
+wildebeest 0.00291449
+???
+
+Evaluation time (1-image): 1.575s
+
+rhinoceros 0.998448
+wildebeest 0.00155159
+???
+
+Evaluation time (1-image): 1.540s
+
+rhinoceros 0.969958
+wildebeest 0.0300421
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.999629
+wildebeest 0.000371341
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.761791
+wildebeest 0.238209
+???
+
+Evaluation time (1-image): 1.670s
+
+wildebeest 0.98398
+rhinoceros 0.0160204
+???
+
+Evaluation time (1-image): 1.531s
+
+wildebeest 0.869688
+rhinoceros 0.130312
+???
+
+Evaluation time (1-image): 1.577s
+
+wildebeest 0.927359
+rhinoceros 0.0726411
+???
+
+Evaluation time (1-image): 1.605s
+
+rhinoceros 0.99927
+wildebeest 0.000729841
+???
+
+Evaluation time (1-image): 1.523s
+
+rhinoceros 0.997549
+wildebeest 0.00245125
+???
+
+Evaluation time (1-image): 1.549s
+
+rhinoceros 0.997011
+wildebeest 0.00298889
+???
+
+Evaluation time (1-image): 1.574s
+
+rhinoceros 0.998861
+wildebeest 0.00113939
+???
+
+Evaluation time (1-image): 1.557s
+
+wildebeest 0.965044
+rhinoceros 0.0349564
+???
+
+Evaluation time (1-image): 1.521s
+
+wildebeest 0.99817
+rhinoceros 0.00182999
+???
+
+Evaluation time (1-image): 1.922s
+
+rhinoceros 0.956086
+wildebeest 0.0439142
+???
+
+Evaluation time (1-image): 1.558s
+
+wildebeest 0.983493
+rhinoceros 0.0165067
+???
+
+Evaluation time (1-image): 1.519s
+
+wildebeest 0.985467
+rhinoceros 0.014533
+???
+
+Evaluation time (1-image): 1.602s
+
+wildebeest 0.990451
+rhinoceros 0.00954944
+???
+
+Evaluation time (1-image): 1.525s
+
+rhinoceros 0.994246
+wildebeest 0.00575435
+???
+
+Evaluation time (1-image): 1.645s
+
+rhinoceros 0.984622
+wildebeest 0.0153785
+???
+
+Evaluation time (1-image): 1.521s
+
+rhinoceros 0.986089
+wildebeest 0.0139109
+???
+
+Evaluation time (1-image): 1.657s
+
+wildebeest 0.987571
+rhinoceros 0.0124285
+???
+
+Evaluation time (1-image): 1.527s
+
+rhinoceros 0.999007
+wildebeest 0.000992987
+???
+
+Evaluation time (1-image): 1.521s
+
+wildebeest 0.972885
+rhinoceros 0.0271154
+???
+
+Evaluation time (1-image): 1.518s
+
+rhinoceros 0.997618
+wildebeest 0.00238241
+???
+
+Evaluation time (1-image): 1.523s
+
+rhinoceros 0.986776
+wildebeest 0.0132237
+???
+
+Evaluation time (1-image): 1.713s
+
+rhinoceros 0.746829
+wildebeest 0.25317
+???
+
+Evaluation time (1-image): 2.497s
+
+rhinoceros 0.938393
+wildebeest 0.0616068
+???
+
+Evaluation time (1-image): 1.806s
+
+rhinoceros 0.961112
+wildebeest 0.0388877
+???
+
+Evaluation time (1-image): 2.411s
+
+rhinoceros 0.980136
+wildebeest 0.019864
+???
+
+Evaluation time (1-image): 1.615s
+
+wildebeest 0.983948
+rhinoceros 0.0160515
+???
+
+Evaluation time (1-image): 1.645s
+
+wildebeest 0.999013
+rhinoceros 0.000986689
+???
+
+Evaluation time (1-image): 1.817s
+
+wildebeest 0.958276
+rhinoceros 0.0417237
+???
+
+Evaluation time (1-image): 1.663s
+
+wildebeest 0.999462
+rhinoceros 0.000538195
+???
+
+Evaluation time (1-image): 1.883s
+
+wildebeest 0.789706
+rhinoceros 0.210294
+???
+
+Evaluation time (1-image): 1.673s
+
+rhinoceros 0.97997
+wildebeest 0.0200303
+???
+
+Evaluation time (1-image): 1.927s
+
+wildebeest 0.975073
+rhinoceros 0.0249269
+???
+
+Evaluation time (1-image): 1.698s
+
+wildebeest 0.965986
+rhinoceros 0.0340139
+???
+
+Evaluation time (1-image): 1.847s
+
+wildebeest 0.845808
+rhinoceros 0.154192
+???
+
+Evaluation time (1-image): 1.959s
+
+wildebeest 0.949469
+rhinoceros 0.0505314
+???
+
+Evaluation time (1-image): 1.701s
+
+wildebeest 0.962018
+rhinoceros 0.0379825
+???
+
+Evaluation time (1-image): 1.629s
+
+wildebeest 0.990945
+rhinoceros 0.00905526
+???
+
+Evaluation time (1-image): 1.640s
+
+wildebeest 0.948922
+rhinoceros 0.0510777
+???
+
+Evaluation time (1-image): 1.596s
+
+wildebeest 0.818491
+rhinoceros 0.181509
+???
+
+Evaluation time (1-image): 1.503s
+
+wildebeest 0.995935
+rhinoceros 0.00406482
+???
+
+Evaluation time (1-image): 1.523s
+
+wildebeest 0.961689
+rhinoceros 0.0383108
+???
+
+Evaluation time (1-image): 1.635s
+
+wildebeest 0.892392
+rhinoceros 0.107608
+???
+
+Evaluation time (1-image): 1.716s
+
+rhinoceros 0.999336
+wildebeest 0.000664436
+???
+
+Evaluation time (1-image): 1.735s
+
+rhinoceros 0.963259
+wildebeest 0.036741
+???
+
+Evaluation time (1-image): 1.641s
+
+rhinoceros 0.997021
+wildebeest 0.00297917
+???
+
+Evaluation time (1-image): 1.705s
+
+wildebeest 0.930754
+rhinoceros 0.0692458
+???
+
+Evaluation time (1-image): 1.652s
+
+wildebeest 0.974317
+rhinoceros 0.0256831
+???
+
+Evaluation time (1-image): 1.659s
+
+rhinoceros 0.993348
+wildebeest 0.00665242
+???
+
+Evaluation time (1-image): 1.654s
+
+wildebeest 0.832973
+rhinoceros 0.167027
+???
+
+Evaluation time (1-image): 1.622s
+
+wildebeest 0.634986
+rhinoceros 0.365014
+???
+
+Evaluation time (1-image): 1.570s
+
+wildebeest 0.970995
+rhinoceros 0.0290051
+???
+
+Evaluation time (1-image): 1.640s
+
+wildebeest 0.994844
+rhinoceros 0.00515555
+???
+
+Evaluation time (1-image): 1.542s
+
+wildebeest 0.998204
+rhinoceros 0.00179599
+???
+
+Evaluation time (1-image): 1.584s
+
+rhinoceros 0.997414
+wildebeest 0.00258547
+???
+
+Evaluation time (1-image): 1.756s
+
+wildebeest 0.956954
+rhinoceros 0.0430456
+???
+
+Evaluation time (1-image): 2.238s
+
+wildebeest 0.958958
+rhinoceros 0.0410416
+???
+
+Evaluation time (1-image): 1.800s
+
+rhinoceros 0.993584
+wildebeest 0.00641563
+???
+
+Evaluation time (1-image): 1.593s
+
+rhinoceros 0.574542
+wildebeest 0.425458
+???
+
+Evaluation time (1-image): 2.497s
+
+rhinoceros 0.999879
+wildebeest 0.000121112
+???
+
+Evaluation time (1-image): 1.547s
+
+wildebeest 0.989057
+rhinoceros 0.0109435
+???
+
+Evaluation time (1-image): 1.644s
+
+rhinoceros 0.999004
+wildebeest 0.000995722
+???
+
+Evaluation time (1-image): 1.811s
+
+rhinoceros 0.614905
+wildebeest 0.385095
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.995299
+wildebeest 0.0047015
+???
+
+Evaluation time (1-image): 1.521s
+
+wildebeest 0.984022
+rhinoceros 0.0159779
+???
+
+Evaluation time (1-image): 1.546s
+
+rhinoceros 0.996487
+wildebeest 0.0035129
+???
+
+Evaluation time (1-image): 1.536s
+
+rhinoceros 0.990364
+wildebeest 0.00963581
+???
+
+Evaluation time (1-image): 1.628s
+
+rhinoceros 0.986513
+wildebeest 0.0134868
+???
+
+Evaluation time (1-image): 1.969s
+
+rhinoceros 0.999848
+wildebeest 0.000151731
+???
+
+Evaluation time (1-image): 2.189s
+
+rhinoceros 0.99884
+wildebeest 0.00116011
+???
+
+Evaluation time (1-image): 1.708s
+
+wildebeest 0.982249
+rhinoceros 0.017751
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.902207
+wildebeest 0.0977934
+???
+
+Evaluation time (1-image): 1.561s
+
+wildebeest 0.710374
+rhinoceros 0.289626
+???
+
+Evaluation time (1-image): 1.539s
+
+wildebeest 0.996124
+rhinoceros 0.00387624
+???
+
+Evaluation time (1-image): 1.565s
+
+wildebeest 0.991442
+rhinoceros 0.00855822
+???
+
+Evaluation time (1-image): 1.546s
+
+wildebeest 0.947057
+rhinoceros 0.0529425
+???
+
+Evaluation time (1-image): 1.540s
+
+wildebeest 0.965355
+rhinoceros 0.034645
+???
+
+Evaluation time (1-image): 1.544s
+
+wildebeest 0.997162
+rhinoceros 0.00283807
+???
+
+Evaluation time (1-image): 1.508s
+
+wildebeest 0.949043
+rhinoceros 0.0509569
+???
+
+Evaluation time (1-image): 1.517s
+
+wildebeest 0.982173
+rhinoceros 0.0178272
+???
+
+Evaluation time (1-image): 1.524s
+
+wildebeest 0.988196
+rhinoceros 0.0118036
+???
+
+Evaluation time (1-image): 1.538s
+
+rhinoceros 0.999048
+wildebeest 0.000952302
+???
+
+Evaluation time (1-image): 1.540s
+
+rhinoceros 0.947347
+wildebeest 0.0526534
+???
+
+Evaluation time (1-image): 1.523s
+
+rhinoceros 0.992388
+wildebeest 0.00761207
+???
+
+Evaluation time (1-image): 1.574s
+
+rhinoceros 0.995819
+wildebeest 0.00418109
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.984458
+wildebeest 0.0155416
+???
+
+Evaluation time (1-image): 1.701s
+
+rhinoceros 0.998964
+wildebeest 0.00103597
+???
+
+Evaluation time (1-image): 1.662s
+
+rhinoceros 0.965194
+wildebeest 0.0348061
+???
+
+Evaluation time (1-image): 1.545s
+
+wildebeest 0.511148
+rhinoceros 0.488852
+???
+
+Evaluation time (1-image): 1.530s
+
+rhinoceros 0.674618
+wildebeest 0.325382
+???
+
+Evaluation time (1-image): 1.530s
+
+rhinoceros 0.949573
+wildebeest 0.050427
+???
+
+Evaluation time (1-image): 1.716s
+
+wildebeest 0.992984
+rhinoceros 0.00701625
+???
+
+Evaluation time (1-image): 1.534s
+
+rhinoceros 0.997375
+wildebeest 0.00262518
+???
+
+Evaluation time (1-image): 1.520s
+
+rhinoceros 0.66973
+wildebeest 0.33027
+???
+
+Evaluation time (1-image): 1.542s
+
+wildebeest 0.934182
+rhinoceros 0.0658178
+???
+
+Evaluation time (1-image): 1.538s
+
+wildebeest 0.967204
+rhinoceros 0.0327962
+???
+
+Evaluation time (1-image): 1.523s
+
+wildebeest 0.82642
+rhinoceros 0.17358
+???
+
+Evaluation time (1-image): 1.530s
+
+rhinoceros 0.886902
+wildebeest 0.113098
+???
+
+Evaluation time (1-image): 1.534s
+
+wildebeest 0.878908
+rhinoceros 0.121092
+???
+
+Evaluation time (1-image): 1.548s
+
+wildebeest 0.970373
+rhinoceros 0.0296268
+???
+
+Evaluation time (1-image): 1.556s
+
+wildebeest 0.996791
+rhinoceros 0.00320935
+???
+
+Evaluation time (1-image): 1.826s
+
+rhinoceros 0.781813
+wildebeest 0.218187
+???
+
+Evaluation time (1-image): 2.241s
+
+rhinoceros 0.998613
+wildebeest 0.00138739
+???
+
+Evaluation time (1-image): 2.458s
+
+rhinoceros 0.976279
+wildebeest 0.0237214
+???
+
+Evaluation time (1-image): 1.821s
+
+rhinoceros 0.999284
+wildebeest 0.000716017
+???
+
+Evaluation time (1-image): 1.576s
+
+rhinoceros 0.995601
+wildebeest 0.00439857
+???
+
+Evaluation time (1-image): 1.713s
+
+wildebeest 0.987232
+rhinoceros 0.0127684
+???
+
+Evaluation time (1-image): 1.747s
+
+rhinoceros 0.99844
+wildebeest 0.00155971
+???
+
+Evaluation time (1-image): 1.520s
+
+wildebeest 0.985753
+rhinoceros 0.014247
+???
+
+Evaluation time (1-image): 1.673s
+
+wildebeest 0.926317
+rhinoceros 0.0736831
+???
+
+Evaluation time (1-image): 1.516s
+
+wildebeest 0.981631
+rhinoceros 0.0183691
+???
+
+Evaluation time (1-image): 1.724s
+
+wildebeest 0.954935
+rhinoceros 0.0450652
+???
+
+Evaluation time (1-image): 1.631s
+
+rhinoceros 0.996013
+wildebeest 0.00398715
+???
+
+Evaluation time (1-image): 1.593s
+
+wildebeest 0.712208
+rhinoceros 0.287792
+???
+
+Evaluation time (1-image): 1.684s
+
+rhinoceros 0.972539
+wildebeest 0.0274605
+???
+
+Evaluation time (1-image): 1.540s
+
+rhinoceros 0.996852
+wildebeest 0.00314753
+???
+
+Evaluation time (1-image): 1.724s
+
+wildebeest 0.968131
+rhinoceros 0.0318687
+???
+
+Evaluation time (1-image): 1.554s
+
+rhinoceros 0.99936
+wildebeest 0.000639974
+???
+
+Evaluation time (1-image): 1.529s
+
+wildebeest 0.998084
+rhinoceros 0.0019161
+???
+
+Evaluation time (1-image): 1.559s
+
+wildebeest 0.994102
+rhinoceros 0.00589814
+???
+
+Evaluation time (1-image): 1.656s
+
+rhinoceros 0.842184
+wildebeest 0.157816
+???
+
+Evaluation time (1-image): 1.534s
+
+wildebeest 0.956877
+rhinoceros 0.0431231
+???
+
+Evaluation time (1-image): 1.581s
+
+rhinoceros 0.999179
+wildebeest 0.000820957
+???
+
+Evaluation time (1-image): 1.769s
+
+wildebeest 0.984744
+rhinoceros 0.0152564
+???
+
+Evaluation time (1-image): 1.603s
+
+rhinoceros 0.996655
+wildebeest 0.00334468
+???
+
+Evaluation time (1-image): 1.557s
+
+rhinoceros 0.744951
+wildebeest 0.255049
+???
+
+Evaluation time (1-image): 1.838s
+
+rhinoceros 0.999267
+wildebeest 0.000733237
+???
+
+Evaluation time (1-image): 1.968s
+
+rhinoceros 0.971477
+wildebeest 0.0285231
+???
+
+Evaluation time (1-image): 1.994s
+
+wildebeest 0.974749
+rhinoceros 0.025251
+???
+
+Evaluation time (1-image): 1.599s
+
+rhinoceros 0.967121
+wildebeest 0.0328791
+???
+
+Evaluation time (1-image): 1.575s
+
+rhinoceros 0.998768
+wildebeest 0.00123157
+???
+
+Evaluation time (1-image): 1.591s
+
+rhinoceros 0.999654
+wildebeest 0.000345689
+???
+
+Evaluation time (1-image): 1.554s
+
+wildebeest 0.999654
+rhinoceros 0.000346024
+???
+
+Evaluation time (1-image): 1.705s
+
+rhinoceros 0.997096
+wildebeest 0.00290392
+???
+
+Evaluation time (1-image): 1.556s
+
+rhinoceros 0.996099
+wildebeest 0.00390081
+???
+
+Evaluation time (1-image): 2.074s
+
+rhinoceros 0.997642
+wildebeest 0.00235814
+???
+
+Evaluation time (1-image): 1.916s
+
+wildebeest 0.997294
+rhinoceros 0.00270582
+???
+
+Evaluation time (1-image): 1.884s
+
+rhinoceros 0.918436
+wildebeest 0.081564
+???
+
+Evaluation time (1-image): 1.553s
+
+wildebeest 0.995682
+rhinoceros 0.00431798
+???
+
+Evaluation time (1-image): 1.581s
+
+rhinoceros 0.997438
+wildebeest 0.00256177
+???
+
+Evaluation time (1-image): 1.507s
+
+rhinoceros 0.992119
+wildebeest 0.00788084
+???
+
+Evaluation time (1-image): 1.572s
+
+rhinoceros 0.971369
+wildebeest 0.0286312
+???
+
+Evaluation time (1-image): 1.614s
+
+wildebeest 0.957444
+rhinoceros 0.0425561
+???
+
+Evaluation time (1-image): 1.564s
+
+wildebeest 0.995169
+rhinoceros 0.00483149
+???
+
+Evaluation time (1-image): 1.623s
+
+rhinoceros 0.99289
+wildebeest 0.00711017
+???
+
+Evaluation time (1-image): 1.605s
+
+rhinoceros 0.724344
+wildebeest 0.275656
+???
+
+Evaluation time (1-image): 2.008s
+
+rhinoceros 0.995385
+wildebeest 0.00461456
+???
+
+Evaluation time (1-image): 1.557s
+
+rhinoceros 0.991106
+wildebeest 0.00889416
+???
+
+Evaluation time (1-image): 1.699s
+
+wildebeest 0.805077
+rhinoceros 0.194922
+???
+
+Evaluation time (1-image): 1.621s
+
+rhinoceros 0.882828
+wildebeest 0.117172
+???
+
+Evaluation time (1-image): 1.623s
+
+wildebeest 0.706132
+rhinoceros 0.293868
+???
+
+Evaluation time (1-image): 1.523s
+
+rhinoceros 0.998494
+wildebeest 0.00150619
+???
+
+Evaluation time (1-image): 1.527s
+
+rhinoceros 0.911638
+wildebeest 0.0883617
+???
+
+Evaluation time (1-image): 1.524s
+
+rhinoceros 0.997503
+wildebeest 0.00249705
+???
+
+Evaluation time (1-image): 1.517s
+
+rhinoceros 0.980042
+wildebeest 0.0199584
+???
+
+Evaluation time (1-image): 1.518s
+
+rhinoceros 0.995766
+wildebeest 0.00423435
+???
+
+Evaluation time (1-image): 1.535s
+
+wildebeest 0.967897
+rhinoceros 0.032103
+???
+
+Evaluation time (1-image): 1.523s
+
+wildebeest 0.997972
+rhinoceros 0.00202767
+???
+
+Evaluation time (1-image): 1.530s
+
+wildebeest 0.947194
+rhinoceros 0.0528062
+???
+
+Evaluation time (1-image): 1.526s
+
+wildebeest 0.99927
+rhinoceros 0.000729521
+???
+
+Evaluation time (1-image): 1.544s
+
+wildebeest 0.992716
+rhinoceros 0.00728389
+???
+
+Evaluation time (1-image): 1.540s
+
+rhinoceros 0.9855
+wildebeest 0.0144998
+???
+
+Evaluation time (1-image): 1.513s
+
+rhinoceros 0.998949
+wildebeest 0.00105082
+???
+
+Evaluation time (1-image): 1.579s
+
+wildebeest 0.999024
+rhinoceros 0.000975785
+???
+
+Evaluation time (1-image): 1.510s
+
+wildebeest 0.998424
+rhinoceros 0.00157631
+???
+
+Evaluation time (1-image): 1.619s
+
+wildebeest 0.954993
+rhinoceros 0.0450067
+???
+
+Evaluation time (1-image): 1.514s
+
+wildebeest 0.997877
+rhinoceros 0.00212351
+???
+
+Evaluation time (1-image): 1.533s
+
+wildebeest 0.986629
+rhinoceros 0.0133708
+???
+
+Evaluation time (1-image): 1.525s
+
+wildebeest 0.996989
+rhinoceros 0.00301079
+???
+
+Evaluation time (1-image): 1.537s
+
+rhinoceros 0.997789
+wildebeest 0.00221113
+???
+
+Evaluation time (1-image): 1.525s
+
+wildebeest 0.954597
+rhinoceros 0.0454034
+???
+
+Evaluation time (1-image): 1.643s
+
+rhinoceros 0.992629
+wildebeest 0.0073713
+???
+
+Evaluation time (1-image): 1.549s
+
+rhinoceros 0.978414
+wildebeest 0.0215859
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.674107
+wildebeest 0.325893
+???
+
+Evaluation time (1-image): 1.550s
+
+wildebeest 0.997008
+rhinoceros 0.00299195
+???
+
+Evaluation time (1-image): 1.518s
+
+wildebeest 0.972269
+rhinoceros 0.0277313
+???
+
+Evaluation time (1-image): 1.552s
+
+wildebeest 0.99584
+rhinoceros 0.00416026
+???
+
+Evaluation time (1-image): 1.583s
+
+wildebeest 0.907189
+rhinoceros 0.0928106
+???
+
+Evaluation time (1-image): 1.606s
+
+rhinoceros 0.995232
+wildebeest 0.00476842
+???
+
+Evaluation time (1-image): 1.940s
+
+wildebeest 0.995329
+rhinoceros 0.00467056
+???
+
+Evaluation time (1-image): 1.874s
+
+rhinoceros 0.80923
+wildebeest 0.19077
+???
+
+Evaluation time (1-image): 1.825s
+
+wildebeest 0.987844
+rhinoceros 0.0121563
+???
+
+Evaluation time (1-image): 1.822s
+
+rhinoceros 0.988701
+wildebeest 0.0112992
+???
+
+Evaluation time (1-image): 1.918s
+
+rhinoceros 0.997487
+wildebeest 0.0025134
+???
+
+Evaluation time (1-image): 1.675s
+
+wildebeest 0.997643
+rhinoceros 0.00235658
+???
+
+Evaluation time (1-image): 1.730s
+
+wildebeest 0.990841
+rhinoceros 0.00915854
+???
+
+Evaluation time (1-image): 1.744s
+
+rhinoceros 0.834921
+wildebeest 0.165079
+???
+
+Evaluation time (1-image): 1.790s
+
+wildebeest 0.861225
+rhinoceros 0.138775
+???
+
+Evaluation time (1-image): 1.605s
+
+wildebeest 0.827897
+rhinoceros 0.172103
+???
+
+Evaluation time (1-image): 1.635s
+
+wildebeest 0.960443
+rhinoceros 0.039557
+???
+
+Evaluation time (1-image): 1.801s
+
+wildebeest 0.954626
+rhinoceros 0.0453739
+???
+
+Evaluation time (1-image): 1.538s
+
+rhinoceros 0.70238
+wildebeest 0.29762
+???
+
+Evaluation time (1-image): 1.598s
+
+wildebeest 0.97216
+rhinoceros 0.0278403
+???
+
+Evaluation time (1-image): 1.516s
+
+wildebeest 0.984994
+rhinoceros 0.0150062
+???
+
+Evaluation time (1-image): 1.548s
+
+rhinoceros 0.661376
+wildebeest 0.338624
+???
+
+Evaluation time (1-image): 1.529s
+
+rhinoceros 0.521141
+wildebeest 0.478859
+???
+
+Evaluation time (1-image): 2.109s
+
+wildebeest 0.994964
+rhinoceros 0.00503632
+???
+
+Evaluation time (1-image): 1.622s
+
+wildebeest 0.980345
+rhinoceros 0.0196548
+???
+
+Evaluation time (1-image): 1.786s
+
+wildebeest 0.994801
+rhinoceros 0.00519895
+???
+
+Evaluation time (1-image): 2.406s
+
+wildebeest 0.994981
+rhinoceros 0.00501934
+???
+
+Evaluation time (1-image): 1.764s
+
+wildebeest 0.989319
+rhinoceros 0.0106806
+???
+
+Evaluation time (1-image): 2.372s
+
+wildebeest 0.999171
+rhinoceros 0.000829166
+???
+
+Evaluation time (1-image): 2.480s
+
+wildebeest 0.722421
+rhinoceros 0.277579
+???
+
+Evaluation time (1-image): 1.889s
+
+wildebeest 0.998054
+rhinoceros 0.00194623
+???
+
+Evaluation time (1-image): 1.739s
+
+wildebeest 0.996435
+rhinoceros 0.00356514
+???
+
+Evaluation time (1-image): 1.898s
+
+rhinoceros 0.972811
+wildebeest 0.0271892
+???
+
+Evaluation time (1-image): 1.561s
+
+wildebeest 0.500303
+rhinoceros 0.499697
+???
+
+Evaluation time (1-image): 1.563s
+
+wildebeest 0.979736
+rhinoceros 0.0202641
+???
+
+Evaluation time (1-image): 1.572s
+
+rhinoceros 0.751216
+wildebeest 0.248784
+???
+
+Evaluation time (1-image): 1.530s
+
+rhinoceros 0.990934
+wildebeest 0.00906586
+???
+
+Evaluation time (1-image): 1.524s
+
+rhinoceros 0.995252
+wildebeest 0.00474755
+???
+
+Evaluation time (1-image): 1.528s
+
+wildebeest 0.995829
+rhinoceros 0.00417134
+???
+
+Evaluation time (1-image): 1.566s
+
+rhinoceros 0.979225
+wildebeest 0.0207748
+???
+
+Evaluation time (1-image): 1.572s
+
+rhinoceros 0.993504
+wildebeest 0.00649604
+???
+
+Evaluation time (1-image): 1.526s
+
+rhinoceros 0.980106
+wildebeest 0.0198938
+???
+
+Evaluation time (1-image): 1.527s
+
+rhinoceros 0.976291
+wildebeest 0.0237086
+???
+
+Evaluation time (1-image): 1.615s
+
+wildebeest 0.991202
+rhinoceros 0.00879847
+???
+
+Evaluation time (1-image): 1.581s
+
+rhinoceros 0.99753
+wildebeest 0.00247011
+???
+
+Evaluation time (1-image): 1.623s
+
+wildebeest 0.997244
+rhinoceros 0.00275565
+???
+
+Evaluation time (1-image): 1.763s
+
+rhinoceros 0.99684
+wildebeest 0.00315977
+???
+
+Evaluation time (1-image): 2.261s
+
+rhinoceros 0.997326
+wildebeest 0.00267364
+???
+
+Evaluation time (1-image): 2.188s
+
+wildebeest 0.940293
+rhinoceros 0.0597067
+???
+
+Evaluation time (1-image): 1.606s
+
+wildebeest 0.980378
+rhinoceros 0.0196215
+???
+
+Evaluation time (1-image): 1.613s
+
+rhinoceros 0.969087
+wildebeest 0.0309133
+???
+
+Evaluation time (1-image): 1.896s
+
+wildebeest 0.994104
+rhinoceros 0.00589608
+???
+
+Evaluation time (1-image): 1.591s
+
+rhinoceros 0.936539
+wildebeest 0.0634613
+???
+
+Evaluation time (1-image): 2.958s
+
+rhinoceros 0.978805
+wildebeest 0.0211947
+???
+
+Evaluation time (1-image): 1.527s
+
+wildebeest 0.973865
+rhinoceros 0.026135
+???
+
+Evaluation time (1-image): 1.535s
+
+rhinoceros 0.999174
+wildebeest 0.000825811
+???
+
+Evaluation time (1-image): 1.532s
+
+rhinoceros 0.998702
+wildebeest 0.00129815
+???
+
+Evaluation time (1-image): 1.532s
+
+wildebeest 0.987149
+rhinoceros 0.0128506
+???
+
+Evaluation time (1-image): 1.534s
+
+rhinoceros 0.9834
+wildebeest 0.0165997
+???
+
+Evaluation time (1-image): 1.527s
+
+wildebeest 0.973691
+rhinoceros 0.0263093
+???
+
+Evaluation time (1-image): 1.548s
+
+wildebeest 0.996287
+rhinoceros 0.00371327
+???
+
+Evaluation time (1-image): 1.519s
+
+rhinoceros 0.997477
+wildebeest 0.00252299
+???
+
+Evaluation time (1-image): 1.536s
+
+wildebeest 0.840737
+rhinoceros 0.159263
+???
+
+Evaluation time (1-image): 1.706s
+
+wildebeest 0.886728
+rhinoceros 0.113272
+???
+
+Evaluation time (1-image): 1.643s
+
+wildebeest 0.997493
+rhinoceros 0.00250748
+???
+
+Evaluation time (1-image): 1.577s
+
+rhinoceros 0.997551
+wildebeest 0.00244926
+???
+
+Evaluation time (1-image): 1.593s
+
+rhinoceros 0.996293
+wildebeest 0.00370729
+???
+
+Evaluation time (1-image): 1.657s
+
+rhinoceros 0.998871
+wildebeest 0.00112864
+???
+
+Evaluation time (1-image): 1.531s
+
+rhinoceros 0.872032
+wildebeest 0.127968
+???
+
+Evaluation time (1-image): 1.630s
+
+wildebeest 0.985706
+rhinoceros 0.0142937
+???
+
+Evaluation time (1-image): 3.020s
+
+rhinoceros 0.996748
+wildebeest 0.00325172
+???
+
+Evaluation time (1-image): 1.889s
+
+rhinoceros 0.983032
+wildebeest 0.0169685
+???
+
+Evaluation time (1-image): 2.003s
+
+rhinoceros 0.543698
+wildebeest 0.456302
+???
+
+Evaluation time (1-image): 1.522s
+
+rhinoceros 0.944644
+wildebeest 0.0553564
+???
+
+Evaluation time (1-image): 1.504s
+
+wildebeest 0.994138
+rhinoceros 0.0058623
+???
+
+Evaluation time (1-image): 1.809s
+
+wildebeest 0.898946
+rhinoceros 0.101054
+???
+
+Evaluation time (1-image): 1.658s
+
+wildebeest 0.986391
+rhinoceros 0.0136089
+???
+
+Evaluation time (1-image): 2.130s
+
+wildebeest 0.994671
+rhinoceros 0.00532907
+???
+
+Evaluation time (1-image): 1.561s
+
+wildebeest 0.995734
+rhinoceros 0.00426637
+???
+
+Evaluation time (1-image): 1.848s
+
+rhinoceros 0.99632
+wildebeest 0.00368024
+???
+
+Evaluation time (1-image): 2.376s
+
+wildebeest 0.974303
+rhinoceros 0.0256973
+???
+
+Evaluation time (1-image): 1.708s
+
+rhinoceros 0.74537
+wildebeest 0.25463
+???
+
+Evaluation time (1-image): 1.789s
+
+wildebeest 0.991902
+rhinoceros 0.00809759
+???
